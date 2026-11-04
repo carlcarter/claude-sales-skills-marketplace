@@ -1,0 +1,13 @@
+{
+  "name": "acme-sales-skills",
+  "owner": {
+    "name": "Acme Sales Enablement"
+  },
+  "plugins": [
+    {
+      "name": "sales-basics",
+      "source": "./plugins/sales-basics",
+      "description": "Starter sales skills: call notes summarizer. Copy this plugin to add your own."
+    }
+  ]
+}

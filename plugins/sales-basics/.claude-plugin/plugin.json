@@ -1,0 +1,9 @@
+{
+  "name": "sales-basics",
+  "version": "1.0.0",
+  "description": "Starter sales skills for the team. Currently includes: call-notes-summarizer.",
+  "author": {
+    "name": "Acme Sales Enablement"
+  },
+  "keywords": ["sales", "call-notes", "starter"]
+}
